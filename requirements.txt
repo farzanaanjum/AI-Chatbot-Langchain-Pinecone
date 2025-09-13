@@ -1,0 +1,10 @@
+streamlit
+streamlit_chat
+langchain
+langchain_community
+sentence_transformers
+openai
+unstructured
+unstructured[local-inference]
+pinecone
+python-dotenv
