@@ -1,6 +1,5 @@
-# AI-Chatbot-Langchain-Pinecone
+# AI Chatbot using Langchain Pinecone
 
-# Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit
 <img width="1051" height="708" alt="image" src="https://github.com/user-attachments/assets/5a9ac747-747c-4957-af67-60b956a58d3c" />
 
 ## Deployment
